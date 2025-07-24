@@ -34,7 +34,7 @@ with DAG(
                     "datasetId": "jcdeol3_final_project_riki",
                     "tableId": "dim_store"
                 },
-                "writeDisposition": "WRITE_TRUNCATE",
+                "writeDisposition": "WRITE_APPEND" if "{{ dag_run.conf.get('full_load', False) }}" else "WRITE_TRUNCATE",
                 "createDisposition": "CREATE_IF_NEEDED",
                 "timePartitioning": {"type": "DAY", "field": "created_at"},
                 "parameterMode": "NAMED"
@@ -55,7 +55,7 @@ with DAG(
                     "datasetId": "jcdeol3_final_project_riki",
                     "tableId": "dim_product"
                 },
-                "writeDisposition": "WRITE_TRUNCATE",
+                "writeDisposition": "WRITE_APPEND" if "{{ dag_run.conf.get('full_load', False) }}" else "WRITE_TRUNCATE",
                 "createDisposition": "CREATE_IF_NEEDED",
                 "timePartitioning": {"type": "DAY", "field": "created_at"},
                 "parameterMode": "NAMED"
@@ -75,7 +75,7 @@ with DAG(
                     "datasetId": "jcdeol3_final_project_riki",
                     "tableId": "dim_rating"
                 },
-                "writeDisposition": "WRITE_TRUNCATE",
+                "writeDisposition": "WRITE_APPEND" if "{{ dag_run.conf.get('full_load', False) }}" else "WRITE_TRUNCATE",
                 "createDisposition": "CREATE_IF_NEEDED",
                 "timePartitioning": {"type": "DAY", "field": "created_at"},
                 "parameterMode": "NAMED"
@@ -96,7 +96,7 @@ with DAG(
                     "datasetId": "jcdeol3_final_project_riki",
                     "tableId": "fact_sales"
                 },
-                "writeDisposition": "WRITE_TRUNCATE",
+                "writeDisposition": "WRITE_APPEND" if "{{ dag_run.conf.get('full_load', False) }}" else "WRITE_TRUNCATE",
                 "createDisposition": "CREATE_IF_NEEDED",
                 "timePartitioning": {"type": "DAY", "field": "transaction_date"},
                 "parameterMode": "NAMED"
