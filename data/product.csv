@@ -1,0 +1,81 @@
+product_id,product_category,product_type,product_detail,unit_price,created_at
+1,Coffee beans,Organic Beans,Brazilian - Organic,18.0,18-03-2022 12:15:14
+2,Coffee beans,House blend Beans,Our Old Time Diner Blend,18.0,30-01-2022 13:02:54
+3,Coffee beans,Espresso Beans,Espresso Roast,14.75,02-08-2022 15:42:48
+4,Coffee beans,Espresso Beans,Primo Espresso Roast,20.45,29-04-2022 06:24:56
+5,Coffee beans,Gourmet Beans,Columbian Medium Roast,15.0,07-05-2022 07:49:03
+6,Coffee beans,Gourmet Beans,Ethiopia,21.0,02-10-2022 19:59:44
+7,Coffee beans,Premium Beans,Jamacian Coffee River,19.75,23-02-2022 10:35:32
+8,Coffee beans,Premium Beans,Civet Cat,45.0,12-12-2022 06:13:20
+9,Coffee beans,Organic Beans,Organic Decaf Blend,22.5,13-09-2022 16:06:59
+10,Coffee beans,Green beans,Guatemalan Sustainably Grown,10.0,27-04-2022 10:06:35
+11,Loose Tea,Herbal tea,Lemon Grass,8.95,26-02-2022 06:35:24
+12,Loose Tea,Herbal tea,Peppermint,8.95,26-07-2022 18:14:14
+13,Loose Tea,Black tea,English Breakfast,8.95,27-11-2022 13:08:20
+14,Loose Tea,Black tea,Earl Grey,8.95,12-07-2022 16:12:55
+15,Loose Tea,Green tea,Serenity Green Tea,9.25,02-08-2022 11:39:51
+16,Loose Tea,Chai tea,Traditional Blend Chai,8.95,14-03-2022 07:06:57
+17,Loose Tea,Chai tea,Morning Sunrise Chai,9.5,28-03-2022 19:13:47
+18,Loose Tea,Chai tea,Spicy Eye Opener Chai,10.95,21-11-2022 19:19:40
+19,Packaged Chocolate,Drinking Chocolate,Dark chocolate,6.4,07-11-2022 11:28:11
+20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,7.6,01-07-2022 11:35:24
+21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,13.33,01-02-2022 15:28:06
+22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2.0,14-12-2022 19:14:07
+23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2.5,09-05-2022 07:54:41
+24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3.0,18-06-2022 07:21:17
+25,Coffee,Organic brewed coffee,Brazilian Sm,2.2,02-12-2022 13:00:14
+26,Coffee,Organic brewed coffee,Brazilian Rg,3.0,05-11-2022 06:52:46
+27,Coffee,Organic brewed coffee,Brazilian Lg,3.5,02-10-2022 14:10:39
+28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2.0,03-06-2022 12:13:26
+29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2.5,11-07-2022 18:12:38
+30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3.0,11-02-2022 20:48:23
+31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2.2,03-06-2022 08:13:51
+32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3.0,01-05-2022 12:43:39
+33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3.5,04-06-2022 19:57:30
+34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2.45,24-12-2022 17:50:25
+35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3.1,24-05-2022 13:58:18
+36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3.75,25-01-2022 19:27:09
+37,Coffee,Barista Espresso,Espresso shot,3.0,02-11-2022 11:41:25
+38,Coffee,Barista Espresso,Latte,3.75,05-03-2022 19:17:18
+39,Coffee,Barista Espresso,Latte Rg,4.25,26-10-2022 06:53:20
+40,Coffee,Barista Espresso,Cappuccino,3.75,05-08-2022 20:50:17
+41,Coffee,Barista Espresso,Cappuccino Lg,4.25,31-07-2022 06:42:32
+42,Tea,Brewed herbal tea,Lemon Grass Rg,2.5,21-11-2022 11:44:58
+43,Tea,Brewed herbal tea,Lemon Grass Lg,3.0,13-02-2022 20:25:23
+44,Tea,Brewed herbal tea,Peppermint Rg,2.5,14-04-2022 09:27:48
+45,Tea,Brewed herbal tea,Peppermint Lg,3.0,23-10-2022 19:35:10
+46,Tea,Brewed Green tea,Serenity Green Tea Rg,2.5,20-08-2022 19:02:25
+47,Tea,Brewed Green tea,Serenity Green Tea Lg,3.0,07-02-2022 11:03:31
+48,Tea,Brewed Black tea,English Breakfast Rg,2.5,30-08-2022 19:19:33
+49,Tea,Brewed Black tea,English Breakfast Lg,3.0,19-03-2022 07:30:38
+50,Tea,Brewed Black tea,Earl Grey Rg,2.5,20-02-2022 10:27:35
+51,Tea,Brewed Black tea,Earl Grey Lg,3.0,17-07-2022 06:47:42
+52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2.5,24-10-2022 08:49:04
+53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3.0,06-10-2022 11:24:07
+54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2.5,03-08-2022 08:24:35
+55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,4.0,01-03-2022 12:42:00
+56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2.55,16-11-2022 14:29:39
+57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3.1,17-10-2022 11:40:13
+58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3.5,18-09-2022 15:31:42
+59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,4.5,04-12-2022 17:02:26
+60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3.75,31-01-2022 10:43:56
+61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,4.75,03-03-2022 09:23:28
+63,Flavours,Regular syrup,Carmel syrup,0.8,19-04-2022 07:16:46
+64,Flavours,Regular syrup,Hazelnut syrup,0.8,26-11-2022 18:15:00
+65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,0.8,12-03-2022 16:40:55
+69,Bakery,Biscotti,Hazelnut Biscotti,4.06,14-07-2022 13:02:23
+70,Bakery,Scone,Cranberry Scone,4.06,22-07-2022 12:36:07
+71,Bakery,Pastry,Chocolate Croissant,4.69,10-12-2022 08:20:27
+72,Bakery,Scone,Ginger Scone,3.25,26-06-2022 08:22:58
+73,Bakery,Pastry,Almond Croissant,3.75,23-10-2022 14:35:58
+74,Bakery,Biscotti,Ginger Biscotti,4.38,09-10-2022 08:07:08
+75,Bakery,Pastry,Croissant,3.5,08-08-2022 07:56:47
+76,Bakery,Biscotti,Chocolate Chip Biscotti,4.38,29-11-2022 16:01:35
+77,Bakery,Scone,Oatmeal Scone,3.0,30-05-2022 14:02:09
+78,Bakery,Scone,Scottish Cream Scone ,5.63,03-12-2022 18:35:31
+79,Bakery,Scone,Jumbo Savory Scone,3.75,05-01-2022 13:37:32
+81,Branded,Clothing,I Need My Bean! T-shirt,28.0,16-11-2022 10:38:07
+82,Branded,Housewares,I Need My Bean! Diner mug,23.0,03-07-2022 17:17:32
+83,Branded,Housewares,I Need My Bean! Latte cup,14.0,05-08-2022 08:53:42
+84,Flavours,Regular syrup,Chocolate syrup,0.8,24-04-2022 09:28:59
+87,Coffee,Barista Espresso,Ouro Brasileiro shot,3.0,18-11-2022 18:08:48

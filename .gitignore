@@ -1,0 +1,6 @@
+purwadika-key.json
+logs/*/
+.vscode/
+webhook_dc.txt
+scripts/__pycache__/
+dags/__pycache__/
